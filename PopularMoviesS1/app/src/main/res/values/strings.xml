@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PopularMovies S1</string>
+    <string name="error_message">An Error has occurred. Please Try again later.</string>
+    <string name="label_synopsis">Synopsis: </string>
+    <string name="label_release_date">Release Date: </string>
+    <string name="label_rate">Rate: </string>
+    <string name="menu_item_order_by_pop">Order by most popular</string>
+    <string name="menu_item_order_by_rated">Order by highest-rated</string>
+    <string name="MOVIE_NAME">MOVIE_NAME</string>
+    <string name="RELEASE_DATE">RELEASE_DATE</string>
+    <string name="VOTE_RATE">VOTE_RATE</string>
+    <string name="SYNOPSIS">SYNOPSIS</string>
+    <string name="POSTER_URL">POSTER_URL</string>
+    <string name="TMDB_API_NOW">https://api.themoviedb.org/3/movie/now_playing</string>
+    <string name="TMDB_API_POP">https://api.themoviedb.org/3/movie/popular</string>
+    <string name="TMDB_API_RATE">https://api.themoviedb.org/3/movie/top_rated</string>
+</resources>
